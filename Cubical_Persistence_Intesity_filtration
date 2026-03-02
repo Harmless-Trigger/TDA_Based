@@ -1,0 +1,1 @@
+The image is imported and the persistent homology of the image data cam be calculated corresponding to the intensity-wise filtration. Denoting the intensity function on image as f, the sublevel sets of f is considered for the filtration of cubical complexes. Then the persistent diagram and persistent barcode is computed. 
